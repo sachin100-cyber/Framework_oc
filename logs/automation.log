@@ -1,0 +1,14 @@
+2026-06-13 11:28:24 INFO  Utils:112 - [TestNG] Running:
+  E:\Java workspace\Framework_oc\master.xml
+
+2026-06-13 11:29:51 INFO  Utils:112 - [TestNG] Running:
+  E:\Java workspace\Framework_oc\master.xml
+
+2026-06-13 11:30:06 INFO  TC_001_AccountRegistrationTest:16 - starting verify_account_registration
+2026-06-13 11:30:06 INFO  TC_001_AccountRegistrationTest:22 - clicked on myaccount
+2026-06-13 11:30:08 INFO  TC_001_AccountRegistrationTest:25 - clicked on register
+2026-06-13 11:30:08 INFO  TC_001_AccountRegistrationTest:29 - provide customer details
+2026-06-13 11:30:25 INFO  TC_001_AccountRegistrationTest:42 - validating expected message
+2026-06-13 11:30:25 INFO  TC_001_AccountRegistrationTest:62 - Finished verify_account_registration
+2026-06-13 11:30:29 INFO  TC_002_LoginTest:16 - Starting LoginTest
+2026-06-13 11:30:35 INFO  TC_002_LoginTest:40 - Finished LoginTest
